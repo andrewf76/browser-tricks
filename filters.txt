@@ -1,0 +1,8 @@
+investinglive.com##.article-list__item-wrapper:has(.article-slot-header__category--sponsored)
+investinglive.com##.premium-banner__wrapper
+investinglive.com##.telegram-button__wrapper.sidebar_telegram-button
+investinglive.com##.a-top-brokers__wrapper.sidebar__top-brokers.a-top-brokers__wrapper--sidebar.sidebar__top-brokers
+investinglive.com##.live-bytes__widget:style(max-height: none !important;)
+investinglive.com##.live-bytes__widget .live-bytes__wrapper:style(max-height: none !important;)
+www.geoguessr.com##.modal_backlight__VXFdL
+www.geoguessr.com##.modal_contentContainer__WYz5S
