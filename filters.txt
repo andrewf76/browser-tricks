@@ -8,3 +8,5 @@ investinglive.com##.unit__outer-wrapper.above-header-meta-content.no-advertiseme
 investinglive.com##.unit__outer-wrapper.sidebar__banner.no-advertisement-label.banner-card
 www.geoguessr.com##.modal_backlight__VXFdL
 www.geoguessr.com##.modal_contentContainer__WYz5S
+www.bbc.com##section[data-analytics_group_name="Global News Podcast"]
+www.bbc.com##section[data-analytics_group_name="Must Watch"]
