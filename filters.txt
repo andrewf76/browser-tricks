@@ -10,4 +10,5 @@ www.geoguessr.com##.modal_backlight__VXFdL
 www.geoguessr.com##.modal_contentContainer__WYz5S
 www.bbc.com##section[data-analytics_group_name="Global News Podcast"]
 www.bbc.com##section[data-analytics_group_name="Must Watch"]
+www.bbc.com##section[data-analytics_group_name="Editor's picks"]
 www.afr.com##.-c34227a19ba7ccd7-contentUnit.-c34227a19ba7ccd7-topDriver
