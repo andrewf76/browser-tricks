@@ -6,6 +6,8 @@ investinglive.com##.live-bytes__widget:style(max-height: none !important;)
 investinglive.com##.live-bytes__widget .live-bytes__wrapper:style(max-height: none !important;)
 investinglive.com##.unit__outer-wrapper.above-header-meta-content.no-advertisement-label
 investinglive.com##.unit__outer-wrapper.sidebar__banner.no-advertisement-label.banner-card
+investinglive.com##.unit__outer-wrapper.all-news__banner.hide-on-tablet.hide-on-desktop-sm.hide-on-desktop-md.hide-on-desktop-lg.hide-on-desktop-xl.hide-on-above-desktop-xl.no-advertisement-label.banner-card
+investinglive.com##.a-top-brokers__wrapper.all-news__top-brokers.hide-on-tablet.hide-on-desktop-sm.hide-on-desktop-md.hide-on-desktop-lg.hide-on-desktop-xl.hide-on-above-desktop-xl.a-top-brokers__wrapper--homepage.all-news__top-brokers.hide-on-tablet.hide-on-desktop-sm.hide-on-desktop-md.hide-on-desktop-lg.hide-on-desktop-xl.hide-on-above-desktop-xl
 www.geoguessr.com##.modal_backlight__VXFdL
 www.geoguessr.com##.modal_contentContainer__WYz5S
 www.bbc.com##section[data-analytics_group_name="Global News Podcast"]
@@ -13,3 +15,4 @@ www.bbc.com##section[data-analytics_group_name="Must Watch"]
 www.bbc.com##section[data-analytics_group_name="Editor's picks"]
 www.bbc.com##section[data-analytics_group_name="Watch"]
 www.afr.com##.-c34227a19ba7ccd7-contentUnit.-c34227a19ba7ccd7-topDriver
+
